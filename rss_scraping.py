@@ -1,4 +1,4 @@
-from logic.scraping import Scraping
+from scraping import Scraping
 
 urls = ['https://www.eltiempo.com/rss/vida_ciencia.xml',
         'https://www.eltiempo.com/rss/colombia.xml',
