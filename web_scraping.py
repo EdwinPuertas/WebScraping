@@ -1,4 +1,4 @@
-from logic.scraping import Scraping
+from scraping import Scraping
 
 sc = Scraping()
 articles = sc.web(url='https://www.eluniversal.com.co')
