@@ -1,4 +1,4 @@
-from logic.scraping import Scraping
+from scraping import Scraping
 
 url = 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=CO'
 sc = Scraping()
